@@ -1,0 +1,9 @@
+Questions:
+What did you like about this project?
+This project taught me how different Java classes work together to create a working student enrolment system. It taught me how to read Java as a programming language and also gave me a glimpse on how unit tests and Exception handling works.
+
+What did you struggle with in this project?
+I struggled most with how rigid the Java syntax was. Often times, I would miss out on a semi colon or declare a variable in a wrong type and it would take me ages to debug. I also struggled at the initial stages of unit testing since getting jUnit to work with intelliJ idea was quite complicated. Martin was very helpful and I managed to get it to work with his guidance.
+
+What would make your experience with this assessment better?
+The time given to complete this assessment was very short. It would be better if we could have at least a week to learn, absorb and apply the Java concepts.
